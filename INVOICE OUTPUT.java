@@ -6,13 +6,28 @@ public class Main {
         System.out.println("\t\tSALES INVOICE\n\n");
         System.out.println("Sold to:James Gitau\t\tDate:28/04/2020");
         System.out.println("Address:Private Bag\t\tContact Number:0100100100\n\n");
-        System.out.println("Qty\t\tItem Description\t\tUnit Price\t\tAmount");
-        System.out.println("4\t\tPencil\t\t20\t\t80.00");
-        System.out.println("10\t\tDuster\t\t50\t\t500.00");
-        System.out.println("9\t\tPens\t\t30\t\t270.00");
-        System.out.println("10\t\tCrayon\t\t80\t\t800.00");
-        System.out.println("\t\t\t\tSub Total\t\t1650.00");
-        System.out.println("\t\t\t\tVAT(16%)\t\t264.00");
-        System.out.println("\t\t\t\tTotal Amount\t\t1914.00");
+        System.out.println("----------------------------------------------------------------");
+        System.out.println("----------------------------------------------------------------");
+        System.out.println("Qty\t\t | Item Description\t\t | Unit Price\t\t | Amount");
+        System.out.println("----------------------------------------------------------------");
+        System.out.println("----------------------------------------------------------------");
+        System.out.println("4\t\t | Pencil\t\t         | 20\t\t         | 80.00");
+        System.out.println("----------------------------------------------------------------");
+        System.out.println("10\t\t | Duster\t\t         | 50\t\t         | 500.00");
+        System.out.println("----------------------------------------------------------------");
+        System.out.println("9\t\t | Pens\t\t             | 30\t\t         | 270.00");
+        System.out.println("----------------------------------------------------------------");
+        System.out.println("10\t\t | Crayon\t\t         | 80\t\t         | 800.00");
+        System.out.println("----------------------------------------------------------------");
+        System.out.println("----------------------------------------------------------------");
+        System.out.println("\t\t\t\t\t\t\t\t |Sub Total\t\t     | 1650.00");
+        System.out.println("----------------------------------------------------------------");
+        System.out.println("----------------------------------------------------------------");
+        System.out.println("\t\t\t\t\t\t\t\t |VAT(16%)\t\t     | 264.00");
+        System.out.println("----------------------------------------------------------------");
+        System.out.println("----------------------------------------------------------------");
+        System.out.println("\t\t\t\t\t\t\t\t |Total Amount\t\t | 1914.00");
+        System.out.println("----------------------------------------------------------------");
+        System.out.println("----------------------------------------------------------------");
     }
 }
